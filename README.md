@@ -26,9 +26,14 @@ To enjoy the immersive Java Arkanoid experience, follow these simple steps:
    Execute the following command to compile the Java files:
    ```javac -cp bin;biuoop-1.4.jar; src/*.java -d bin```
 
-4. **Run the Game:**
+5. **Run the Game:**
 After successful compilation, run the game using the following command:
 ```java -cp bin;biuoop-1.4.jar Ass6Game```
 
-5. **Play the Game:**
+6. **Play the Game:**
 Experience the thrill of Arkanoid in Java and embark on an adventure filled with challenges and excitement!
+
+<a href="https://raw.githubusercontent.com/AharonGross1/Arkanoid/main/assets/Screenshot%202024-05-22%20173214.png"><img src="https://raw.githubusercontent.com/AharonGross1/Arkanoid/main/assets/Screenshot%202024-05-22%20173214.png" align="left" height="400" width="470"></a>
+<a href="https://github.com/AharonGross1/Arkanoid/blob/main/assets/Screenshot%202024-05-22%20173239.png"><img src="https://github.com/AharonGross1/Arkanoid/blob/main/assets/Screenshot%202024-05-22%20173239.png" align="left" height="400" width="470"></a>
+<a href="https://github.com/AharonGross1/Arkanoid/blob/main/assets/Screenshot%202024-05-22%20173223.png"><img src="https://github.com/AharonGross1/Arkanoid/blob/main/assets/Screenshot%202024-05-22%20173223.png" align="left" height="400" width="470"></a>
+<a href="https://github.com/AharonGross1/Arkanoid/blob/main/assets/Screenshot%202024-05-22%20173527.png"><img src="https://github.com/AharonGross1/Arkanoid/blob/main/assets/Screenshot%202024-05-22%20173527.png" align="left" height="400" width="470"></a>
