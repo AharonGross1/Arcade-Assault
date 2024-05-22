@@ -20,7 +20,4 @@
             <arg line="${args}"/>
         </java>
     </target>
-
-
-
 </project>
