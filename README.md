@@ -1,5 +1,4 @@
 # Arcade Assault
-[Arkanoid](https://en.wikipedia.org/wiki/Arkanoid) 
 Experience the Classic [Brick Breaker](https://en.wikipedia.org/wiki/Brick_Breaker) Game in Java
 
 Embark on a thrilling journey through four engaging levels in our meticulously crafted Java Arkanoid game. Each level presents a new challenge, pushing your skills to the limit as you strive to keep the ball in play and conquer the game.
